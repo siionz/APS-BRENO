@@ -4,3 +4,7 @@ COMANDOS PRA SUBIR O CODIGO NO GIT:
 - git add . (Pega as alterações),
 - git commit -m "Comentários sobre a alteração",
 - git push (Para enviar o código no github)
+
+
+
+testandooo
