@@ -111,10 +111,12 @@ def gerenciamentoUser():
             print(Fore.RED + "Digite algo válido")
     LimparTela()
 
+def salvarMensagemJson(msg_original, msg_criptografada):
+    return
+    
 def enviarMensagem():
-    while True:
-        titulo("ENVIAR MENSAGEM")
-        break
+    loginUser()
+    return
 
 def MenuPrincipalADM():
     while True:
